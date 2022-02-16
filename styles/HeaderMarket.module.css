@@ -1,0 +1,27 @@
+.bar {
+  width: 100%;
+  background-color: #7ca5b8;
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+  cursor: pointer;
+}
+.top {
+  width: 100%;
+  background-color: #7ca5b8;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.adress {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.textInfo {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
